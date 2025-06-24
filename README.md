@@ -15,4 +15,4 @@ This represents a decrease of approximately 55.8% in MAE indicating that my mode
 
 Before reaching for advanced algorithms, invest in understanding your features how they relate, overlap, or leak information.
 
-You can read more on the project .
+You can read more on the project [here](https://medium.com/@temitopeakinpelu98/house-price-prediction-exploring-size-location-and-full-feature-engineering-with-regression-0e5a8807c9d4) .
